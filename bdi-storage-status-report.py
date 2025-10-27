@@ -14,7 +14,7 @@ import io
 # CYBERARK_API_URL = "https://cyberark.company.com/AIMWebService/api/Accounts"
 
 CYBERARK_API_URL = "http://127.0.0.1:5000/AIMWebService/api/Accounts" #Dummy Url
-APP_ID = "jenkins_automation"
+APP_ID = "crdb_jenkins_automation"
 SAFE_NAME = "Linux_Servers"
 
 # Dummy server list (replace later)
